@@ -7,7 +7,7 @@ Fortunate enough to get hold of a GPT3 API key, I've been playing with it and bu
 - **Job Requirements Extractor**
 ![logo](images/demo_linkedin.gif)
   
-It can extract job requirements quite accurately and also output the number of experience needed to apply.
+It can extract job requirements quite accurately and also output the years of experience needed to apply.
 
 The latter is insanely important because even tho I'm a junior data scientist Linkedin recommends me more-senior jobs
 all the time! If Linkedin were to set up a **year-of-experience filter**, think about how much frustration, disappointment and wasted time
